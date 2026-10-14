@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1F6FEB,100:8B5CF6&height=220&section=header&text=Hi%2C%20I'm%20Carlos%20%F0%9F%91%8B&fontSize=48&fontColor=FFFFFF&fontAlignY=37&desc=Python%20Developer%20%7C%20Backend%20%26%20Automation&descAlignY=58&descSize=19&animation=fadeIn" width="100%" alt="Carlos — Python Developer" />
 
+  <h1>Hi, I'm Carlos 👋</h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+things+with+Python+%F0%9F%90%8D;Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F;Learning%2C+creating%2C+improving+%F0%9F%9A%80" alt="Typing animation" /></a>
 
 <a href="https://www.linkedin.com/in/carlos-jimenez-martin-800b94b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
